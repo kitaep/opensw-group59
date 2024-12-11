@@ -1,4 +1,4 @@
-// Hugging Face 이용해서 text-to-image 변환
+# Hugging Face 이용해서 text-to-image 변환
 
 from huggingface_hub import InferenceClient
 from PIL import Image
