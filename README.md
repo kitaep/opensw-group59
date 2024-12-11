@@ -30,3 +30,32 @@ To run with docker: `docker compose up -d --build`
 ### Usage
 you could see the website on `localhost:3000` after deployment
 ![example](https://github.com/user-attachments/assets/465aed58-32ff-4983-9c62-37c9571f002d)
+
+---
+
+## Face detection project using openCV
+
+### Project Overview
+- This project uses OpenCV’s Haar Cascade Classifier to detect faces in an image. The program loads an image, detects faces, and highlights them with rectangles.
+
+### Packages Used
+- Python version: 3.x
+- OpenCV version: 4.5.1 or later
+- To install dependencies:
+  ```c
+  pip install opencv-python
+
+### How to Run
+1. Set up the environment: Install OpenCV with the above command.
+2. Prepare the image: Update the file path in the code to your image location.
+3. Run the code:
+   ```c
+   python face_detection.py
+4. View results:
+   A window will open showing the image with rectangles around detected faces. Press any key to close the window.
+
+![example]("C:/Users/82108/example.png")
+
+Reference : [opencv-face-detection](https://opencv.org/blog/opencv-face-detection-cascade-classifier-vs-yunet/)
+
+---
