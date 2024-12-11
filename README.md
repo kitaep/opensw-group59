@@ -15,3 +15,17 @@
 
 - Reference : [https://huggingface.co/black-forest-labs/FLUX.1-dev](https://huggingface.co/black-forest-labs/FLUX.1-dev)
 ---
+
+## Random cat image on node web server
+
+### Prerequisite
+- docker
+- docker compose
+- node
+
+### Installation
+To run with node: `node app.js`
+To run with docker: `docker compose up -d --build`
+
+### Usage
+you could see the website on `localhost:3000` after deployment
