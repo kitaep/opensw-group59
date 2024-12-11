@@ -50,11 +50,12 @@ you could see the website on `localhost:3000` after deployment
 2. Prepare the image: Update the file path in the code to your image location.
 3. Run the code:
    ```c
-   python face_detection.py
+   python haarcascade_detection.py
 4. View results:
-   A window will open showing the image with rectangles around detected faces. Press any key to close the window.
+   A window will open showing the image with rectangles around detected faces.
+   Press any key to close the window.
 
-![example]("C:/Users/82108/example.png")
+![example](https://github.com/user-attachments/assets/c5b33f29-578c-410c-b181-09850cceacd0)
 
 Reference : [opencv-face-detection](https://opencv.org/blog/opencv-face-detection-cascade-classifier-vs-yunet/)
 
