@@ -7,7 +7,11 @@
   Enter this code in cmd :
   ```c
   pip install -U diffusers
-- 
+- Write the code in '202233151_차예린.c', Enter your token number, then commit.
+- You need python 3.8 or upper version.
+- This is successfully executed screen : ![input_code](https://github.com/user-attachments/assets/1cf1ec6e-4061-4501-a51f-41aadd5af0f9)
+![output_image](https://github.com/user-attachments/assets/719ef260-8ada-4f42-babc-29551df5914a)
 
-Reference : [https://huggingface.co/black-forest-labs/FLUX.1-dev](https://huggingface.co/black-forest-labs/FLUX.1-dev)
+
+- Reference : [https://huggingface.co/black-forest-labs/FLUX.1-dev](https://huggingface.co/black-forest-labs/FLUX.1-dev)
 ---
