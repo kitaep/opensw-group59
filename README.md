@@ -29,3 +29,4 @@ To run with docker: `docker compose up -d --build`
 
 ### Usage
 you could see the website on `localhost:3000` after deployment
+![example]("https://github.com/user-attachments/assets/465aed58-32ff-4983-9c62-37c9571f002d")
